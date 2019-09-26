@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPExecersice1", "OOPExecersice1\OOPExecersice1.csproj", "{F710F821-F797-4874-A4D8-D16B968CE748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPExe2", "OOPExe2\OOPExe2.csproj", "{A6F08030-78D5-4040-AF6E-52144EA916DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F710F821-F797-4874-A4D8-D16B968CE748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F710F821-F797-4874-A4D8-D16B968CE748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F710F821-F797-4874-A4D8-D16B968CE748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F710F821-F797-4874-A4D8-D16B968CE748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F08030-78D5-4040-AF6E-52144EA916DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F08030-78D5-4040-AF6E-52144EA916DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F08030-78D5-4040-AF6E-52144EA916DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F08030-78D5-4040-AF6E-52144EA916DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF3D93B-059B-4392-86FA-2E38CEAD68D1}
+	EndGlobalSection
+EndGlobal
